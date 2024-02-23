@@ -13,14 +13,14 @@ class Program():
   def __init__(self) -> None:
     self.int = 10
     self.str = "hello"
-    
+
   # インスタンスメソッド
-  def get_int(self) -> int:
+  def get_int(self):
     return "hello"
   
   # 静的メソッド
   @staticmethod
-  def get_str_static() -> int:
+  def get_str_static() -> str:
     return global_string
 
 
