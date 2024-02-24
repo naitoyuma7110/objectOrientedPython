@@ -14,3 +14,7 @@
 settings.json の新しい設定方法
 
 - https://qiita.com/siruku6/items/6a8412c41616b558df66
+
+## SOLID 原則
+
+- https://zenn.dev/keiichiro/articles/9397379ab638b1
